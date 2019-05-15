@@ -55,3 +55,7 @@ djangoerp/media
 #docs
 
 docs/_build/*
+
+
+# Pycharm project files
+.idea
